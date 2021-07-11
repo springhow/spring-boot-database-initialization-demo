@@ -1,0 +1,2 @@
+insert into employee(id, first_name, last_name, email, department) values (1, 'John', 'Doe', 'JDoe@example.com', 'Sales');
+insert into employee(id, first_name, last_name, email, department, manager_id) values (2, 'Jane', 'Dee', 'JaDee@example.com', 'Finance', 1);
